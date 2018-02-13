@@ -1,3 +1,5 @@
 function theBeatlesPlay (musicians,instruments) {
-  console.log ("XXXXXXXXXXXXInstrumentsXXXXXXXXXXXXXXXXXXXXXXXXX")
+  for (var i = 0,i < musicians.length; i++) {
+    console.log('${musician[i]} ${length[i]}')
+  } 
 }
